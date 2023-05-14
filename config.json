@@ -1,0 +1,8 @@
+{
+	"dataset": "st_be",
+	"speaker": "rusakevich",
+	"lang": "be",
+	"lowerF0": 90,
+	"upperF0": 390,
+	"sampFreq": 44100
+}promts_exclude.json исключённые 
